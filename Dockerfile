@@ -20,12 +20,12 @@ RUN /opt/ibm/wlp/bin/installUtility install  --acceptLicense \
 	ejbLite-3.2 \
 	ejbRemote-3.2 \
 	servlet-3.1 \
-	jsf-2.0 \
+	jsf-2.2 \
 	beanValidation-1.1 \
 	jndi-1.0 \
 	cdi-1.2 \
 	jdbc-4.1 \
-	jpa-2.0 \
+	jpa-2.1 \
 	javaMail-1.5 \
 	el-3.0; exit 0
 
